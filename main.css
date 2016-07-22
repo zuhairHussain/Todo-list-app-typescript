@@ -1,0 +1,16 @@
+.pd {
+    padding: 15px 25px;
+    background-color: #4285f4;
+    color: white;
+    border: none;
+}
+.txtf {
+    width: 100%;
+    padding: 10px 17px;
+}
+li{list-style: none;}
+input[type='checkbox'] {margin-right: 10px; }
+.well-sm {
+    padding: 22px;
+    border-radius: 3px;
+}
